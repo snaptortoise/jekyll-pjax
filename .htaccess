@@ -1,0 +1,4 @@
+RewriteEngine On
+# RewriteBase /
+RewriteCond %{HTTP:X-PJAX} true
+RewriteRule ([a-zA-Z0-9\_\-]+).html snippets/$1.html

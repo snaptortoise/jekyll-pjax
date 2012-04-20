@@ -1,0 +1,6 @@
+markdown: rdiscount
+# lsi: true
+permalink: date
+pygments: true
+source: .
+auto: true
