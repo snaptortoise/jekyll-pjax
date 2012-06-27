@@ -26,4 +26,4 @@ This will tell the server to use the snippets instead of the full pages when the
 
 `pjaxify.sh`
 
-After youv'e setup your Jekyll blog, run this script as you might normally run Jekyll.  It will go through all of the pages, copy them to the snippets folder and replace the layout in the front matter with "snippets" so that they're rendered appropriately. Once this is done it will run Jekyll, creating the site the in `_site` folder as normal, and copy the `.htaccess` file there.
+After you've setup your Jekyll blog, run this script as you might normally run Jekyll.  It will go through all of the pages, copy them to the snippets folder and replace the layout in the front matter with "snippets" so that they're rendered appropriately. Once this is done it will run Jekyll, creating the site the in `_site` folder as normal, and copy the `.htaccess` file there.
