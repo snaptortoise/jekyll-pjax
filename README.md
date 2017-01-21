@@ -8,8 +8,6 @@ This Jekyll template is designed to work with pjax.  Quick instructions:
 
 That's it.
 
-Demo: [http://snaptortoise.com/pjaxify-demo](http://snaptortoise.com/pjaxify-demo)
-
 ## The important bits
 
 
